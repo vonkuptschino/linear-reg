@@ -1,5 +1,5 @@
 ## Алгоритм выполнения лабораторной работы
-linear-regression-numpy-pandas-sklearn-matplotlib and all the boys
+linear-regression-sklearn-numpy-pandas-matplotlib and all the boys
 
 
 - Загрузить данные из csv-файла в скрипт с помощью метода read_csv модуля pandas.
